@@ -6,3 +6,10 @@ scikit-learn
 matplotlib
 statsmodels
 seaborn
+openai==0.28
+numpy
+openpyxl
+pandas
+pyarrow
+pyjanitor
+ipykernel
